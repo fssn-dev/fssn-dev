@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/schin0">
+<a href="https://github.com/fssn-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fssn-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
