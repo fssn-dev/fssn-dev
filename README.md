@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/schin0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fssn-dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/fssn-dev/fssn-dev/blob/main/devcard.svg" width="400" alt="Fabio dos Santos Nunes Dev Card"/></a>
