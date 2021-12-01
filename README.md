@@ -35,10 +35,10 @@
 
 <p>
   <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api?username=fssn-dev&count_private=true&show_icons=true&theme=aura" alt"Fabio dos Santos Nunes GitHub Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api/?username=fssn-dev&count_private=true&show_icons=true&theme=aura" alt"Fabio dos Santos Nunes GitHub Stats"/>
   </a>
   <a align="right" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://git-hub-stats-local-fssn-dev.vercel.app/api?username=fssn-dev&&langs_count=8&theme=aura&layout=compact" alt="Fabio dos Santos Nunes Language Count"/>
+    <img src="https://git-hub-stats-local-fssn-dev.vercel.app/top-langs/api/?username=fssn-dev&&langs_count=8&theme=aura&layout=compact" alt="Fabio dos Santos Nunes Language Count"/>
 </a>
   
 </p>
