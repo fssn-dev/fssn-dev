@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/fssn-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fssn-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fssn-dev&layout=compact&langs_count=7&theme=Noctis Uva"/>
 </div>
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/fssn-dev/fssn-dev/blob/main/devcard.svg" width="400" alt="Fabio dos Santos Nunes Dev Card"/></a>
