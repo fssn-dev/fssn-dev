@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fssn-dev&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Dev Card](https://github.com/fssn-dev/fssn-dev/blob/main/devcard.svg =x250)](https://app.daily.dev/DailyDevTips)
-
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/fssn-dev/fssn-dev/blob/main/devcard.svg" width="350" alt="Fabio dos Santos Nunes Dev Card"/></a>
