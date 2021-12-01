@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Dev Card](https://github.com/fssn-dev/fssn-dev/blob/main/devcard.svg =x250)](https://app.daily.dev/DailyDevTips)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/fssn-dev/fssn-dev/blob/main/devcard.svg" width="250" alt="Fabio dos Santos Nunes Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/fssn-dev/fssn-dev/blob/main/devcard.svg" width="300" alt="Fabio dos Santos Nunes Dev Card"/></a>
