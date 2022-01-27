@@ -28,6 +28,8 @@
   <li>javaScript</li>
   <li>HTML</li>
   <li>CSS</li>
+  <li>React</li>
+  <li>S.O.L.I.D.</li>
   <li>Korean (self-taught)</li>
   <li>Arabic (self-taught)</li>
 </ul>
