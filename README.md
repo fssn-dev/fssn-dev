@@ -37,15 +37,21 @@
 </ul>
 <br>
 
-<p>
+<p align="left">
   <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api/?username=fssn-dev&count_private=true&show_icons=true&theme=aura" alt"Fabio dos Santos Nunes GitHub Stats"/>
+   <img 
+        align="center"
+        height="170em"
+        src="https://github-readme-stats.vercel.app/api/?username=fssn-dev&count_private=true&show_icons=true&theme=aura" alt"Fabio dos Santos Nunes GitHub Stats"/>
   </a>
   <a align="right" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://git-hub-stats-local-git-main-fssn-dev.vercel.app/api/top-langs/?username=fssn-dev&&langs_count=8&theme=aura&layout=compact" alt="Fabio dos Santos Nunes Language Count"/>
-</a>
-  
+    <img 
+         align="center"
+         height="170em"
+         src="https://git-hub-stats-local-git-main-fssn-dev.vercel.app/api/top-langs/?username=fssn-dev&&langs_count=8&theme=aura&layout=compact" alt="Fabio dos Santos Nunes Language Count"/>
+</a>  
 </p>
+
   <a align="left" href="https://app.daily.dev/DailyDevTips">
     <img src="https://github.com/fssn-dev/fssn-dev/blob/main/devcard.svg" width="350" alt="Fabio dos Santos Nunes Dev Card"/>
   </a>
