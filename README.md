@@ -1,7 +1,7 @@
 
 <h1 align="center">Fabio dos Santos Nunes</h1>
 
-<h2 align="center">Front End Student <a href="https://faculdadeiv2.com.br/" alt="Faculdade IV2" target="_blank"> @Faculdade IV2</a></h2>
+<h2 align="center">Front End Developer</h2>
 
 <p align="center">
   Javascript | HTML | CSS | GIT
